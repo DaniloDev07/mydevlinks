@@ -35,7 +35,7 @@ O My Dev Links é uma aplicação web onde disponibilizo os meus principais link
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://danilodev07.github.io/mydevlinks/).
 
 ## :memo: Licença
 
